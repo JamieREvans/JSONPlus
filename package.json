@@ -1,0 +1,28 @@
+{
+  "name": "json-plus",
+  "version": "1.0.0",
+  "description": "An npm package with some missing JSON methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/*.test.js"
+  },
+  "keywords": [
+    "json",
+    "plus",
+    "JSONPlus",
+    "deep",
+    "nested",
+    "copy",
+    "extension"
+  ],
+  "homepage": "https://github.com/JamieREvans/JSONPlus",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JamieREvans/JSONPlus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JamieREvans/JSONPlus/issues"
+  },
+  "author": "Jamie Evans <jamie.riley.evans@gmail.com> (https://github.com/JamieREvans)",
+  "license": "MIT"
+}
